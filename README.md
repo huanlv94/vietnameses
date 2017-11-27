@@ -39,7 +39,7 @@ str_out = Vietnameses.convert_iso(str) # From string ISO-8859-1
 puts str_out
 
 str = 'Tôi là ai ?'
-str_out = Vietnameses.convert_iso(str) # From string UTF-8
+str_out = Vietnameses.convert_unicode(str) # From string UTF-8
 puts str_out
 ```
 
