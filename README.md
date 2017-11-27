@@ -1,4 +1,4 @@
-Build: [![Build Status](https://travis-ci.org/lehuan94cntt/vietnameses.svg?branch=master)]
+Build: ![Build Status](https://travis-ci.org/lehuan94cntt/vietnameses.svg?branch=master)
 
 Vietnameses
 ===========
