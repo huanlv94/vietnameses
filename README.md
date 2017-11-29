@@ -1,4 +1,5 @@
 Build: ![Build Status](https://travis-ci.org/lehuan94cntt/vietnameses.svg?branch=master)
+[![Gem Version](https://badge.fury.io/rb/vietnameses.svg)](https://badge.fury.io/rb/vietnameses)
 
 Vietnameses
 ===========
